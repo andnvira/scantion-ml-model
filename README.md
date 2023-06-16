@@ -31,17 +31,25 @@ The Jupyter Notebook is an open source web application that you can use to creat
 - Teaching [Data Science Skills](https://www.nobledesktop.com/classes-near-me/blog/top-uses-for-jupyter-noteboook#:~:text=Jupyter%20Notebook%20allows%20users%20to,with%20others%20via%20the%20platform.)
 
 
-## ☁Dataset Resource
+## ☁Dataset Resources
 
  <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://global-uploads.webflow.com/5fc212183117036dc3c635d0/611f5ebe2709f0744c0f4413_Sourcing%20talent%20on%20Kaggle%20image.png" width="400"></a></p>
 <p align="center">
 
-<div align="center">
 
-  
+<hr>  
 Kaggle allows users to find datasets they want to use in building AI models, publish datasets, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
 
-Our team use kaggle to find our [Melanoma Datasets](https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification)
-Also our team use other webistes to find [Normal Skin Datasets](https://id.depositphotos.com/stock-photos/human-skin-surface.html)
+- Our team use kaggle to find our [Melanoma Datasets](https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification)
+- Also our team use other webistes to find [Normal Skin Datasets](https://id.depositphotos.com/stock-photos/human-skin-surface.html)
 
+## ☁CNN Model Architecture
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://editor.analyticsvidhya.com/uploads/90650dnn2.jpeg" width="400"></a></p>
+<p align="center">
+
+<hr>
+A CNN is a kind of network architecture for deep learning algorithms and is specifically used for image recognition and tasks that involve the processing of pixel data. There are other types of neural networks in deep learning, but for identifying and recognizing objects, CNNs are the network architecture of choice.
 This repository contains source code of Machine Learning model classification of Scantion using CNN Method.
+
+
